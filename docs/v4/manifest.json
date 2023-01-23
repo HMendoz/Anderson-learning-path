@@ -4,7 +4,7 @@
     "Manifest": "v4",
     "ManifestMinWebPart": "4.0.0",
     "CurrentWebPart": "4.2.0",
-    "RepoURL": "https://github.com/HMendoz/Anderson-learning-path"
+    "RepoURL": "https://hmendoz.github.io/Anderson-learning-path/"
   },
   "ContentPacks": [],
   "AssetOrigins": ["https://support.office.com", "https://docs.microsoft.com"],

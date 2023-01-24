@@ -124,10 +124,7 @@
     "Description": "Learn all about the PnP remote provisioning model.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [
-      "9faefc4b-60e8-46ef-892c-791e030a8d28",
-      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
-    ]
+    "Assets": ["3b72f30f-1438-4551-b009-8ad6f7d924a2"]
   },
   {
     "Id": "08322e2d-6c80-4a3b-8316-77d7ea063bec",
@@ -142,9 +139,6 @@
     "Description": "Learn all about the PnP remote provisioning model.",
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [
-      "9faefc4b-60e8-46ef-892c-791e030a8d28",
-      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
-    ]
+    "Assets": ["2819116b-ce59-41aa-8a50-a9cb5af1be45"]
   }
 ]
